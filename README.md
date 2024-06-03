@@ -38,7 +38,7 @@ To install the required modules using 'pip'
 To install specific modules
 
     pip install <module-name>
-
+Note : app.py is the main python script to run the tool rest of the files are the modules which are used in the main script.
 To run the main python script
 
     python3 app.py
