@@ -25,7 +25,7 @@ Additional Module Information
 
 You only need to install psutil and pyautogui using pip as the other modules are part of Python's standard library.
 
-#Installation
+# Installation
 Modules
 
     psutil==5.9.4
