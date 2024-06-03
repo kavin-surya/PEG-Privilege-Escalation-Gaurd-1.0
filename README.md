@@ -27,12 +27,14 @@ You only need to install psutil and pyautogui using pip as the other modules are
 
 #Installation
 Modules
-  psutil==5.9.4
-  pyautogui==0.9.53
+
+    psutil==5.9.4
+    pyautogui==0.9.53
 
 To install the required modules using 'pip'
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 To install specific modules
-  pip install <module-name>
+
+    pip install <module-name>
