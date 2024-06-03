@@ -38,3 +38,8 @@ To install the required modules using 'pip'
 To install specific modules
 
     pip install <module-name>
+
+To run the main python script
+
+    python3 app.py
+some modules in the python program may require root privilege to run. 
